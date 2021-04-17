@@ -9,7 +9,7 @@ I am currently a IT student at the third Campus of CEFET-MG and a freelance Full
 ### Some projects
 
 #### Simplified Computer GUI using Electron
-[![](https://i.imgur.com/RCwAZgW.png)](https://github.com/AyresMonteiro/gui-computador-simplificado-electron)
+[<img src="https://i.imgur.com/RCwAZgW.png" width="401"/>](https://github.com/AyresMonteiro/gui-computador-simplificado-electron)
 
 #### React ChatApp using Redux
-[![](https://i.imgur.com/mRXv0YL.png)](https://github.com/AyresMonteiro/ChatApp)
+[<img src="https://i.imgur.com/mRXv0YL.png" width="500"/>](https://github.com/AyresMonteiro/ChatApp)
