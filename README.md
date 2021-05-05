@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am currently a IT student at the third Campus of CEFET-MG and a freelance FullStack Developer, focusing on Laravel, React and React Native. 🤓✨
+I am currently a IT student at the third Campus of CEFET-MG and a FullStack Developer at Galax Code, focusing on Laravel, React and React Native. 🤓✨
 
 ### Some projects
 
