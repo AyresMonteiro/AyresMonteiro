@@ -6,6 +6,10 @@
 
 I am currently a IT student at the third Campus of CEFET-MG, a FullStack Developer at Galax Code and a Clean Code && Clean Architecture Enthusiast focusing on Node.js, React and React Native. 🤓✨
 
+### Contact
+
+Email: ayres.computacao@gmail.com
+
 ### Some projects
 
 #### Simplified Computer GUI using Electron
