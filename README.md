@@ -18,6 +18,3 @@ Email: ayres.computacao@gmail.com
 
 #### Simplified Computer GUI using Electron
 [<img src="https://i.imgur.com/RCwAZgW.png" width="401"/>](https://github.com/AyresMonteiro/gui-computador-simplificado-electron)
-
-#### React ChatApp using Redux
-[<img src="https://i.imgur.com/mRXv0YL.png" width="500"/>](https://github.com/AyresMonteiro/ChatApp)
