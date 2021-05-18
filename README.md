@@ -6,6 +6,10 @@
 
 I am currently a IT student at the third Campus of CEFET-MG, a FullStack Developer at Galax Code and a Clean Code && Clean Architecture Enthusiast focusing on Node.js, React and React Native. 🤓✨
 
+### Stats
+
+![AyresMonteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayresmonteiro&show_icons=true&count_private=true)
+
 ### Contact
 
 Email: ayres.computacao@gmail.com
