@@ -8,7 +8,11 @@ I am currently a IT student at the third Campus of CEFET-MG, a FullStack Develop
 
 ### Stats
 
-![AyresMonteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayresmonteiro&show_icons=true&count_private=true&bg_color=75,0d1117,21262d&title_color=58a6ff&icon_color=58a6ff&border_color=58a6ff&text_color=f0f6fc)
+<span name="github-stats">
+  <img id="overview" height="185em" src="https://github-readme-stats.vercel.app/api?username=ayresmonteiro&show_icons=true&count_private=true&bg_color=75,0d1117,21262d&title_color=58a6ff&icon_color=58a6ff&border_color=58a6ff&text_color=f0f6fc" />
+  <img id="most-used-languages" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyresMonteiro&layout=compact&langs_count=8&bg_color=75,0d1117,21262d&title_color=58a6ff&icon_color=58a6ff&border_color=58a6ff&text_color=f0f6fc" />
+</span>
+
 
 ### Contact
 
