@@ -1,6 +1,6 @@
 # Oh, you found the AyresMonteiro's Github Page!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayres-monteiro/)](https://www.linkedin.com/in/ayres-monteiro/)
+[![Linkedin Badge](https://img.shields.io/badge/%7C-LinkedIn-58a6ff?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayres-monteiro/)
 
 ### About Me
 
@@ -12,7 +12,7 @@ I am currently a IT student at the third Campus of CEFET-MG, a FullStack Develop
 
 ### Contact
 
-Email: ayres.computacao@gmail.com
+[![Email Badge](https://img.shields.io/badge/%7C-ayres.computacao%40gmail.com-ff3636?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ayres.computacao@gmail.com)
 
 ### Some projects
 
