@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am currently a IT student at the third Campus of CEFET-MG, a FullStack Developer at Galax Code and a Clean Code && Clean Architecture Enthusiast focusing on Node.js, React and React Native. 🤓✨
+I am currently a senior IT student at the third Campus of CEFET-MG, a FullStack Developer at Galax Code and a Clean Code && Clean Architecture Enthusiast focusing on Node.js, React and React Native. 🤓✨
 
 ### Stats
 
