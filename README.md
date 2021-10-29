@@ -7,7 +7,7 @@
 
 ### About Me
 
-I am currently a senior IT student at the third Campus of CEFET-MG, a FullStack Developer at Galax Code and a Clean Code && Clean Architecture Enthusiast focusing on Node.js, React and React Native. 🤓✨
+I am currently a senior IT student at the third Campus of CEFET-MG, a FullStack Developer and a Clean Code && Clean Architecture Enthusiast focusing on PHP, Node.js, React and React Native. 🤓✨
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-585858?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayres-monteiro/)
 [![Email Badge](https://img.shields.io/badge/gmail-585858?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ayres.computacao@gmail.com)
