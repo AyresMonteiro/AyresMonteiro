@@ -28,6 +28,6 @@ I am currently a Frontend Developer and a SEO Analyst at RBR Digital. I love gam
 ### Status
 
 <span name="github-stats">
-  <img id="overview" height="185em" src="https://github-readme-stats.vercel.app/api?username=ayresmonteiro&show_icons=true&count_private=true&bg_color=75,170d0d,2d2121&title_color=ff5858&icon_color=ff5858&border_color=ff5858&text_color=fcf0f0" />
-  <img id="most-used-languages" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyresMonteiro&layout=compact&langs_count=8&bg_color=75,0d0d17,212126&title_color=00b3ff&icon_color=00b3ff&border_color=00b3ff&text_color=f0f0fc" />
+  <img id="overview" height="190px" src="https://github-readme-stats.vercel.app/api?username=ayresmonteiro&show_icons=true&count_private=true&bg_color=75,170d0d,2d2121&title_color=ff5858&icon_color=ff5858&border_color=ff5858&text_color=fcf0f0" />
+  <img id="most-used-languages" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyresMonteiro&layout=compact&langs_count=8&bg_color=75,0d0d17,212126&title_color=00b3ff&icon_color=00b3ff&border_color=00b3ff&text_color=f0f0fc" />
 </span>
