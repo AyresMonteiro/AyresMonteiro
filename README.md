@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am currently a Frontend Developer and a SEO Analyst at RBR Digital. I love games, movies, series and, of course, IT. 🤓✨
+I am currently a Fullstack Developer and a SEO Analyst at RBR Digital. I love games, movies, series and, of course, IT. 🤓✨
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-585858?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayres-monteiro/)
 [![Email Badge](https://img.shields.io/badge/gmail-585858?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ayres.computacao@gmail.com)
