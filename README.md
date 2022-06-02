@@ -1,8 +1,6 @@
 ## Oh, you found the AyresMonteiro's Github Page!
 
-### About Me
-
-I am currently a SEO Analyst at RBR Digital. I am constantly trying to learn new concepts in life, from physical phenomena to ideas.
+I'm a fullstack developer working at RBR Digital. That's it.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-585858?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayres-monteiro/)
 [![Email Badge](https://img.shields.io/badge/gmail-585858?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ayres.computacao@gmail.com)
