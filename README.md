@@ -14,9 +14,7 @@ I'm a fullstack developer working at RBR Digital. That's it.
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AyresMonteiro/cpp-snake-game">
-        <img src="https://raw.githubusercontent.com/AyresMonteiro/cpp-snake-game/main/media/snake_game-game_over.gif" width="401"/>
-      </a>
+        [https://github.com/AyresMonteiro/cpp-snake-game](<img src="https://raw.githubusercontent.com/AyresMonteiro/cpp-snake-game/main/media/snake_game-game_over.gif" width="401"/>)
     </td>
     <td>
       <a href="https://github.com/AyresMonteiro/gui-computador-simplificado-electron"><img src="https://i.imgur.com/RCwAZgW.png" width="401"/></a>
