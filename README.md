@@ -9,17 +9,15 @@ I'm a fullstack developer working at RBR Digital. That's it.
 
 <table>
   <tr>
-    <td>C++ Snake Game</td>
-    <td>Simplified Computer GUI using Electron</td>
+    <td><a href="https://github.com/AyresMonteiro/cpp-snake-game">C++ Snake Game</a></td>
+    <td><a href="https://github.com/AyresMonteiro/gui-computador-simplificado-electron">Simplified Computer GUI using Electron</a></td>
   </tr>
   <tr>
-    <a href="https://github.com/AyresMonteiro/cpp-snake-game">
-      <td>
-        <img src="https://raw.githubusercontent.com/AyresMonteiro/cpp-snake-game/main/media/snake_game-game_over.gif" width="401"/>
-      </td>
-    </a>
     <td>
-      <a href="https://github.com/AyresMonteiro/gui-computador-simplificado-electron"><img src="https://i.imgur.com/RCwAZgW.png" width="401"/></a>
+      <img src="https://raw.githubusercontent.com/AyresMonteiro/cpp-snake-game/main/media/snake_game-game_over.gif" width="401"/>
+    </td>
+    <td>
+      <img src="https://i.imgur.com/RCwAZgW.png" width="401"/>
     </td>
   </tr>
 </table>
