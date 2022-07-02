@@ -1,31 +1,10 @@
-## Oh, you found the AyresMonteiro's Github Page!
+## Ayres Monteiro, Backend Developer
 
-I'm a fullstack developer working at RBR Digital. That's it.
+Experienced with C: multithreading, message passing, pointers, data structures and more.
+Experienced with programming paradigms: Imperative, Declarative, Functional and OO.
+Experienced with web development: caching, async job queues, database optimization, real-time communication with websockets and multi-language (example: english, german) responses.
+Experienced with development strategies: decoupling, don't repeat yourself. 
+Fluent in Javascript (nodejs), C and PHP.
+Knows a bit of: Rust, Dart, C++, Java, Python and Elixir.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-585858?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayres-monteiro/)
-[![Email Badge](https://img.shields.io/badge/gmail-585858?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ayres.computacao@gmail.com)
-
-### Some projects
-
-<table>
-  <tr>
-    <td><a href="https://github.com/AyresMonteiro/cpp-snake-game">C++ Snake Game</a></td>
-    <td><a href="https://github.com/AyresMonteiro/gui-computador-simplificado-electron">Simplified Computer GUI using Electron</a></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/AyresMonteiro/cpp-snake-game/main/media/snake_game-game_over.gif" width="401"/>
-    </td>
-    <td>
-      <img src="https://i.imgur.com/RCwAZgW.png" width="401"/>
-    </td>
-  </tr>
-</table>
-
-
-### Status
-
-<span name="github-stats">
-  <img id="overview" height="178px" src="https://github-readme-stats.vercel.app/api?username=ayresmonteiro&show_icons=true&count_private=true&bg_color=75,170d0d,2d2121&title_color=ff5858&icon_color=ff5858&border_color=ff5858&text_color=fcf0f0" />
-  <img id="most-used-languages" height="178px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyresMonteiro&layout=compact&langs_count=8&bg_color=75,0d0d17,212126&title_color=00b3ff&icon_color=00b3ff&border_color=00b3ff&text_color=f0f0fc" />
-</span>
+Sometimes a frontend developer (if necessary).
