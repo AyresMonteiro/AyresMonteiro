@@ -1,5 +1,9 @@
 ## Ayres Monteiro, Backend Developer
 
+> "Give me an interesting feature to develop. I will be satisfied with that."
+
+---
+
 - Experienced with C: multithreading, message passing, pointers, data structures and more.
 - Experienced with programming paradigms: Imperative, Declarative, Functional and OO.
 - Experienced with web development: caching, async job queues, database optimization, real-time communication with websockets and multi-language (example: english, german) responses.
