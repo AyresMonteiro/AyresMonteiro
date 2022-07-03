@@ -4,7 +4,7 @@
 
 ---
 
-- Experienced with C: multithreading, message passing, pointers, data structures and more.
+- Experienced with C: multithreading, message handling, pointers, data structures and more.
 - Experienced with programming paradigms: Imperative, Declarative, Functional and OO.
 - Experienced with web development: caching, async job queues, database queries optimization, real-time communication with websockets and multi-language (example: english, german) responses.
 - Experienced with development strategies: decoupling, don't repeat yourself.
