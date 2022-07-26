@@ -1,6 +1,6 @@
 ## Ayres Monteiro, Backend Developer
 
-> "Give me an interesting feature to develop. I will be satisfied with that."
+> "Give me an interesting feature to develop."
 
 ---
 
