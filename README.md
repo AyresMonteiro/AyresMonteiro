@@ -1,6 +1,6 @@
 ## Ayres Monteiro, Backend Developer
 
-> "Helping others is cool."
+> "Helping others is cool and being helped is awesome."
 
 > "Give me an interesting feature to develop and I will be satisfied."
 
