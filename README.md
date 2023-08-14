@@ -11,4 +11,4 @@
 - Experienced with web development: caching, async job queues, database queries optimization, real-time communication with websockets and multi-language (i.e.: english, german) responses.
 - Experienced with development strategies: decoupling, don't repeat yourself.
 - Fluent in Javascript/Typescript (nodejs), C and PHP.
-- Knows a bit of: Rust, Dart, C++, Java, Python and Elixir.
+- Knows a bit of: Rust, Dart, C++, Java, Python, Elixir and Game Development.
