@@ -27,6 +27,6 @@
 ### I had some interests in:
 
 - Game Development with C++
-- High Performance Languages: Rust, Golang and Elixir
+- High-Performance Languages: Rust, Golang and Elixir
 - Mobile app development with Java/Kotlin for Android and Swift for iOS
 - Quick task scripts with Python
