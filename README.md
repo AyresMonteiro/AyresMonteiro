@@ -8,9 +8,25 @@
 
 ---
 
-- I'm experienced with programming paradigms: Imperative, Declarative, Functional and OO.
-- I'm experienced with web development: restful apis, caching, async job queues, database queries optimization, real-time communication with websockets and internationalized responses.
-- I'm experienced with development strategies: "decoupling", "don't repeat yourself" and "keep it simple, stupid!".
-- I'm experienced with Amazon Web Services (AWS) and Google Cloud Platform (GCP).
-- I'm fluent in Javascript/Typescript (nodejs), Ruby, C and PHP.
-- I know a bit of: Rust, Dart, C++, Java, Python, Elixir and Game Development.
+### I have work experience with:
+
+- Cloud environments: Amazon Web Services (AWS) and Google Cloud Platform (GCP)
+- Web development: restful apis, caching, async job queues, database queries optimization, real-time communication with websockets and internationalized responses
+- Databases: MySQL, Postgres, MongoDB, etc.
+- Queue Systems: BullMQ, RabbitMQ, AWS SQS
+- Message Brokers: Kafka, RabbitMQ
+- Caching: Redis, Memcached
+- External Filesystems: AWS S3, MinIO
+- Auth: OAuth2, JWT, Cookies, etc
+- Architectures: MVC, MSC, Clean Architecture, Microservices, Monorepo
+- DevOps: pipelines, horizontal scaling, vertical scaling, regions, infrastructure as code
+- Development strategies: Using Design Patterns and some principles like "decoupling", "don't repeat yourself" and "keep it simple, stupid!"
+- Programming paradigms: Imperative, Declarative, Functional and OO
+- Programming Languages: Javascript/Typescript (nodejs), Ruby, C and PHP
+
+### I had some interests in:
+
+- Game Development with C++
+- High Performance Languages: Rust, Golang and Elixir
+- Mobile app development with Java/Kotlin for Android and Swift for iOS
+- Quick task scripts with Python
