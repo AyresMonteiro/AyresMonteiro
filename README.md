@@ -1,4 +1,4 @@
-## Ayres Monteiro, Software Engineer
+## Ayres Monteiro, Software Developer
 
 [
   ![Current Stack Icons](
