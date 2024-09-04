@@ -1,10 +1,13 @@
 ## Ayres Monteiro, Software Developer
 
-[
-  ![Current Stack Icons](
-    https://skillicons.dev/icons?i=nodejs,ts,nestjs,nextjs,ruby,rails,python,graphql,mysql,postgresql,mongo,redis,jest,docker,vscode
-  )
-](https://skillicons.dev)
+
+<div>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,nextjs" alt="Current Stack Icons (1)">
+<img src="https://skillicons.dev/icons?i=ruby,rails,python,graphql" alt="Current Stack Icons (2)">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongo,redis" alt="Current Stack Icons (3)">
+<img src="https://skillicons.dev/icons?i=jest,docker,vscode" alt="Current Stack Icons (3)">
+</div>
+
 
 ---
 
